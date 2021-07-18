@@ -24,7 +24,7 @@ done
     echo  $purple"[•]2.bikin nama v.1"
     echo  $cyan"[•]3.bikin nama v.2"
     echo  $yellow"[•]4.install wget"
-    echo  $blue"[•]5.pembelajaran"
+    echo  $blue"[•]5.pembelajaran(masih eror jangan di pake)"
     echo  $red"[•]6.keluar/exit"
 read -p "pilih (1/2/3/4/5/6): " pil
 if [ $pil = "1" ]
